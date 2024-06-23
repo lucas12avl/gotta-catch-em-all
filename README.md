@@ -153,8 +153,8 @@ The middleware components are essential parts of the game logic, handling variou
 ![Wild Encounter](./project%20images/capturingGameplay.gif)
 
 ### Capturing Pokémon
-<img src="./project%20images/wildEncounter.png" alt="wild encounter" width="300" style="float: left; margin-right: 10px;" />
-<img src="./project%20images/pidgeyCaught.png" alt="wild encounter" width="300" style="float: left;" />
+<img src="./project%20images/wildEncounter.png" alt="wild encounter" width="300"/>
+<img src="./project%20images/pidgeyCaught.png" alt="wild encounter" width="300"/>
 
 
 ### Pokédex View
