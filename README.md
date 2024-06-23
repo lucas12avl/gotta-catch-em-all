@@ -54,8 +54,8 @@ The frontend part of the project is organized as follows:
   - `globals.js`: Contains global variables and configurations used throughout the Vue components.
 
 More specific information at:
-https://github.com/lucas12avl/gotta-catch-em-all/blob/bb13e7e14d9c9c283d8986651d8901e607516290/gotta_catch_em_all_backend.pdf
-https://github.com/lucas12avl/gotta-catch-em-all/blob/bb13e7e14d9c9c283d8986651d8901e607516290/gotta_catch_em_all_frontend.pdf
+- https://github.com/lucas12avl/gotta-catch-em-all/blob/bb13e7e14d9c9c283d8986651d8901e607516290/gotta_catch_em_all_backend.pdf
+- https://github.com/lucas12avl/gotta-catch-em-all/blob/bb13e7e14d9c9c283d8986651d8901e607516290/gotta_catch_em_all_frontend.pdf
 
 ### Backend (Node.js)
 
