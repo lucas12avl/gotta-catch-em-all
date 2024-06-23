@@ -115,7 +115,7 @@ To use the application, follow these steps:
 6. View your captured Pokémon in the Pokédex.
 7. Save your progress to continue your adventure later.
 - **Hint:** 
-Have you captured all 2 different pokmons? 
+Have you captured all 2 different pokmons? <h1> </h1>
 Then, go to the sign at the bottom of the map and press the A button to reveal an Easter egg! 
 (maybe another different pokemon is waiting for you)
 
