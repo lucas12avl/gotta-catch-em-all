@@ -117,7 +117,7 @@ To use the application, follow these steps:
 - **Hint:** 
 <p> Have you captured all 2 different pokmons?<br>
  Then, go to the sign at the bottom of the map and press the A button to reveal an Easter egg!<br>
- (maybe another different pokemon is waiting for you) </p>
+ (<em>maybe another different pokemon is waiting for you</em>) </p>
 
 ## Endpoints
 
