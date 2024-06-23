@@ -1,4 +1,3 @@
-```markdown
 # Gotta Catch 'Em All: Pokémon Web Application
 
 Welcome to the **Gotta Catch 'Em All** Pokémon web application! This project is a simplified version of Pokémon Red's Route 1, where the player can walk around, enter tall grass to find Pokémon, catch them, view them in the Pokédex, and save their game progress. The project is divided into two main parts: the frontend, developed with Vue.js, and the backend, built with Node.js.
