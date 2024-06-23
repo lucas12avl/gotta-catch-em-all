@@ -54,7 +54,9 @@ The frontend part of the project is organized as follows:
   - `/base_components`: Contains reusable base components.
   - `globals.js`: Contains global variables and configurations used throughout the Vue components.
 
-More specific information at gotta_catch_em_all_frontend.pdf
+More specific information at:
+https://github.com/lucas12avl/gotta-catch-em-all/blob/bb13e7e14d9c9c283d8986651d8901e607516290/gotta_catch_em_all_backend.pdf
+https://github.com/lucas12avl/gotta-catch-em-all/blob/bb13e7e14d9c9c283d8986651d8901e607516290/gotta_catch_em_all_frontend.pdf
 
 ### Backend (Node.js)
 
@@ -157,7 +159,6 @@ The middleware components are essential parts of the game logic, handling variou
 
 ### Pokédex View
 ![Pokédex View](./project%20images/pokedex.gif)
-*A screenshot showing the Pokédex with captured and seen Pokémon.*
 
 ## Authors
 Lucas Dalmau
