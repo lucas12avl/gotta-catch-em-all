@@ -114,7 +114,7 @@ To use the application, follow these steps:
 5. Attempt to catch Pokémon using Pokéballs.
 6. View your captured Pokémon in the Pokédex.
 7. Save your progress to continue your adventure later.
-**Hint:** 
+- **Hint:** 
 Have you captured all 2 different pokmons? 
 Then, go to the sign at the bottom of the map and press the A button to reveal an Easter egg! 
 (maybe another different pokemon is waiting for you)
