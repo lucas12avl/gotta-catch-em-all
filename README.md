@@ -69,6 +69,7 @@ The backend part of the project is structured as follows:
 More specific information at gotta_catch_em_all_backend.pdf
 
 ## Installation
+**prerequisite:** Have node.js installed, if not, download it from the official website at https://nodejs.org/en
 
 Follow these steps to set up the project locally:
 
